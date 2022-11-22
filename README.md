@@ -1,2 +1,2 @@
-# ES6-Import-Export
+# JSX-challenge-4-React-Styling
 Created with CodeSandbox
